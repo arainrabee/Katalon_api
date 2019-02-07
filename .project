@@ -15,43 +15,6 @@
 		<nature>org.eclipse.jdt.groovy.core.groovyNature</nature>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
-	<linkedResources>
-		<link>
-			<name>kat-1275517643168712644.groovy</name>
-			<type>1</type>
-			<location>C:/Users/RABEEA~1/AppData/Local/Temp/Katalon/Web Services/kat-1275517643168712644.groovy</location>
-		</link>
-		<link>
-			<name>kat-2012785366662831353.groovy</name>
-			<type>1</type>
-			<location>C:/Users/RABEEA~1/AppData/Local/Temp/Katalon/Web Services/kat-2012785366662831353.groovy</location>
-		</link>
-		<link>
-			<name>kat-3357675370983984210.groovy</name>
-			<type>1</type>
-			<location>C:/Users/RABEEA~1/AppData/Local/Temp/Katalon/Web Services/kat-3357675370983984210.groovy</location>
-		</link>
-		<link>
-			<name>kat-3893030075502668184.groovy</name>
-			<type>1</type>
-			<location>C:/Users/RABEEA~1/AppData/Local/Temp/Katalon/Web Services/kat-3893030075502668184.groovy</location>
-		</link>
-		<link>
-			<name>kat-5163802937161644218.groovy</name>
-			<type>1</type>
-			<location>C:/Users/RABEEA~1/AppData/Local/Temp/Katalon/Web Services/kat-5163802937161644218.groovy</location>
-		</link>
-		<link>
-			<name>kat-5643712203931281263.groovy</name>
-			<type>1</type>
-			<location>C:/Users/RABEEA~1/AppData/Local/Temp/Katalon/Web Services/kat-5643712203931281263.groovy</location>
-		</link>
-		<link>
-			<name>kat-6492751879605988804.groovy</name>
-			<type>1</type>
-			<location>C:/Users/RABEEA~1/AppData/Local/Temp/Katalon/Web Services/kat-6492751879605988804.groovy</location>
-		</link>
-	</linkedResources>
 	<filteredResources>
 		<filter>
 			<id>1549114027034</id>
